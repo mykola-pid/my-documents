@@ -17,3 +17,6 @@ F:\my documents>git add .
 F:\my documents>git commit -m "first edit my repository"
 
 F:\my documents>git push origin master
+
+//////////////////////////////github에서의 permission관리///////////////////////////
+
