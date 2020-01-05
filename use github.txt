@@ -1,0 +1,11 @@
+업로드하려는 등록부로 가서 다음의 명령을 실행한다.
+
+F:\my documents>git remote add origin https://github.com/mykola-pid/my-documents.git
+
+F:\my documents>git remote -v
+
+F:\my documents>git add .
+
+F:\my documents>git commit -m "first commit"
+
+F:\my documents>git push origin master
