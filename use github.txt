@@ -9,3 +9,11 @@ F:\my documents>git add .
 F:\my documents>git commit -m "first commit"
 
 F:\my documents>git push origin master
+
+///////////////////////////
+
+F:\my documents>git add .
+
+F:\my documents>git commit -m "first edit my repository"
+
+F:\my documents>git push origin master
